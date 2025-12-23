@@ -1,5 +1,7 @@
-# 💳 Credit Card Fraud Detection System  
-### End-to-End Machine Learning Project
+💳 Credit Card Fraud Detection System
+
+🔗 Live Demo (Streamlit App):
+👉 https://creadcrd-g5unzulhzqfatasqekzhrn.streamlit.app/
 
 An industry-aligned machine learning project that detects fraudulent credit card transactions using advanced feature engineering, ensemble learning, and real-time deployment with Streamlit.
 
